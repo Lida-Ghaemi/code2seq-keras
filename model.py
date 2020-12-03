@@ -9,11 +9,11 @@ import tensorflow as tf
 #import tensorflow.compat.v1 as tf
 #tf.compat.v1.disable_eager_execution()
 ####################
-from tensorflow import keras
-import IPython
+#from tensorflow import keras
+#import IPython
 
-pip install -U keras-tuner
-import kerastuner as kt
+#pip install -U keras-tuner
+#import kerastuner as kt
 ###############
 import reader
 from common import Common
